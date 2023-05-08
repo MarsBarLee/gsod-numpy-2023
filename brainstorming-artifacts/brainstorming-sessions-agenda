@@ -1,0 +1,31 @@
+# NumPy Contributor Comics: Brainstorming + Community Input
+
+## Dates:
+- May 4 2023 NumPy Newcomers Hour
+- May 8 2023 NumPy Docs Meeting
+- May 10 2023 NumPy Community Meeting
+
+## Links to post in chat
+- Link to the brainstorming document:
+https://jamboard.google.com/d/1j_rEIslOh59N9cLGU1VGc7rTc88SuLTi7l4YqTqAULc/viewer?f=4
+- For more details on deliverables and timeline: https://medium.com/@marsbarlee/gsod-numpy-contributor-comics-project-roadmap-521280503fbd
+---
+## Outline
+Hi everyone! My item on the agenda is the brainstorming for the GSOD-NumPy project.
+- I will first go through some slides on this Google Jamboard and then open for questions and brainstorming ideas at the end.
+- The shortest amount of time this will take is 10 minutes. If people are interested and there's more discussion, it could extend for a bit.
+- Here's a link to the brainstorming document:
+https://jamboard.google.com/d/1j_rEIslOh59N9cLGU1VGc7rTc88SuLTi7l4YqTqAULc/viewer?f=4
+
+Now we come to the question and brainstorming section. My first question is
+- What comments or concerns do you have about this project?
+
+With Google Jamboards, you can write your comment, move it around or even draw. Since I'm sharing my screen, I can transcribe for us, but feel free to open the Jamboard on your own device and write by yourself.
+
+The second question is a bit sillier but still relevant:
+- Based on your role in NumPy, what would your fantasy class be?
+
+Thanks everyone for partcipating! I will upload this Jamboard into the project repository. at https://github.com/MarsBarLee/gsod-numpy-2023/tree/main/brainstorming-artifacts.
+
+The next brainstorming session will be the NumPy Community Meeting this Wednesday, May 10. 
+
