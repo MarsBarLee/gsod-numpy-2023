@@ -59,13 +59,13 @@ NumPy has participated in Google Season of Docs in 2019, 2020, and 2021. You can
 The mentors for this project, Mukulika Pahari and Ross Barnowski, are both members of the NumPy Documentation Team, with experience mentoring and creating documentation, as well as around the tooling and infrastructure involved in creating the documentation for NumPy. Ross was also in this role for Google Season of Docs 2021 and Mukulika was the technical writer for that year's project.
 
 Current documentation:
+- Latest version (tutorial, reference guide, developer docs): https://www.numpy.org/devdocs/index.html
+- Historical archive of released documentation: https://docs.scipy.org/doc/
+- NumPy website: http://www.numpy.org/
+- SciPy ecosystem website (which NumPy is at the core of): https://scipy.org/
+- GitHub repository (all sources for code and docs): https://github.com/numpy/numpy
+- Jupyter Notebook repository (not integrated into the main documentation): https://github.com/numpy/numpy-tutorials
 
-Latest version (tutorial, reference guide, developer docs): https://www.numpy.org/devdocs/index.html
-Historical archive of released documentation: https://docs.scipy.org/doc/
-NumPy website: http://www.numpy.org/
-SciPy ecosystem website (which NumPy is at the core of): https://scipy.org/
-GitHub repository (all sources for code and docs): https://github.com/numpy/numpy
-Jupyter Notebook repository (not integrated into the main documentation): https://github.com/numpy/numpy-tutorials
 Please visit https://numpy.org/contribute for contact information. You can also write directly to numpy-scipy-gsod@googlegroups.com with specific questions.
 
 ---
