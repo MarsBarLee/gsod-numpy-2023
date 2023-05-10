@@ -1,0 +1,286 @@
+From mukulikapahari@gmail.com Mon Apr 24 11:41:35 2023
+From: Mukulika Pahari <mukulikapahari@gmail.com>
+To: numpy-discussion@python.org
+Subject:
+ [Numpy-discussion] Google Season of Docs 2023 participation announcement
+Date: Mon, 24 Apr 2023 11:41:25 +0000
+Message-ID: <168233648524.9054.2005236291840239207@mail.python.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9127020030370346776=="
+
+--===============9127020030370346776==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi all,
+
+I am pleased to announce that NumPy has been selected as a participant for th=
+e Google Season of Docs program. This year, the grant will support Mars (@Mar=
+sBarLee) as our technical writer on the "NumPy Contributor Journey Comics" pr=
+oject. She has been instrumental in improving the NumPy documentation experie=
+nce through design and conceived the idea for this project here- https://gith=
+ub.com/numpy/numpy.org/pull/600. She will share her detailed implementation p=
+lan with us soon.
+
+The project proposal can be read here- https://github.com/numpy/numpy/wiki/Go=
+ogle-Season-of-Docs-2023:-Project-Proposal. And the full list of selected par=
+ticipants can be seen at https://developers.google.com/season-of-docs/docs/pa=
+rticipants.
+
+Also, we are always happy to welcome other documentation contributions on a v=
+olunteer basis. Please check out our community page (https://numpy.org/commun=
+ity/) if you wish to get involved.
+
+Best wishes,
+Mukulika
+
+--===============9127020030370346776==--
+
+
+From iheifeanyi@gmail.com Fri Apr 28 12:06:04 2023
+From: Benny Ifeanyi Iheagwara <iheifeanyi@gmail.com>
+To: numpy-discussion@python.org
+Subject:
+ [Numpy-discussion] Re: Google Season of Docs 2023 participation announcement
+Date: Fri, 28 Apr 2023 07:51:22 +0100
+Message-ID:
+ <CAJn9szpemL03GJBa2uFJFUCZVCOXFgwfS7tunKV6_PnOMGFfpg@mail.gmail.com>
+In-Reply-To: <168233648524.9054.2005236291840239207@mail.python.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5145059565089908961=="
+
+--===============5145059565089908961==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+That's awesome news Mars (@marsBarLee) You definitely earned it. Keep up
+the good work!
+
+On Mon, 24 Apr 2023 at 12:43, Mukulika Pahari <mukulikapahari(a)gmail.com>
+wrote:
+
+> Hi all,
+>
+> I am pleased to announce that NumPy has been selected as a participant for
+> the Google Season of Docs program. This year, the grant will support Mars
+> (@MarsBarLee) as our technical writer on the "NumPy Contributor Journey
+> Comics" project. She has been instrumental in improving the NumPy
+> documentation experience through design and conceived the idea for this
+> project here- https://github.com/numpy/numpy.org/pull/600. She will share
+> her detailed implementation plan with us soon.
+>
+> The project proposal can be read here-
+> https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2023:-Project-Pro=
+posal.
+> And the full list of selected participants can be seen at
+> https://developers.google.com/season-of-docs/docs/participants.
+>
+> Also, we are always happy to welcome other documentation contributions on
+> a volunteer basis. Please check out our community page (
+> https://numpy.org/community/) if you wish to get involved.
+>
+> Best wishes,
+> Mukulika
+> _______________________________________________
+> NumPy-Discussion mailing list -- numpy-discussion(a)python.org
+> To unsubscribe send an email to numpy-discussion-leave(a)python.org
+> https://mail.python.org/mailman3/lists/numpy-discussion.python.org/
+> Member address: iheifeanyi(a)gmail.com
+>
+
+
+
+--===============5145059565089908961==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0
+
+PGRpdiBkaXI9ImF1dG8iPlRoYXQmIzM5O3MgYXdlc29tZSBuZXdzIE1hcnMgKEBtYXJzQmFyTGVl
+KSBZb3UgZGVmaW5pdGVseSBlYXJuZWQgaXQuIEtlZXAgdXAgdGhlIGdvb2Qgd29yayE8YnI+PC9k
+aXY+PGRpdj48YnI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiIGNsYXNz
+PSJnbWFpbF9hdHRyIj5PbiBNb24sIDI0IEFwciAyMDIzIGF0IDEyOjQzLCBNdWt1bGlrYSBQYWhh
+cmkgJmx0OzxhIGhyZWY9Im1haWx0bzptdWt1bGlrYXBhaGFyaUBnbWFpbC5jb20iPm11a3VsaWth
+cGFoYXJpQGdtYWlsLmNvbTwvYT4mZ3Q7IHdyb3RlOjxicj48L2Rpdj48YmxvY2txdW90ZSBjbGFz
+cz0iZ21haWxfcXVvdGUiIHN0eWxlPSJtYXJnaW46MHB4IDBweCAwcHggMC44ZXg7Ym9yZGVyLWxl
+ZnQtd2lkdGg6MXB4O2JvcmRlci1sZWZ0LXN0eWxlOnNvbGlkO3BhZGRpbmctbGVmdDoxZXg7Ym9y
+ZGVyLWxlZnQtY29sb3I6cmdiKDIwNCwyMDQsMjA0KSI+SGkgYWxsLDxicj4KPGJyPgpJIGFtIHBs
+ZWFzZWQgdG8gYW5ub3VuY2UgdGhhdCBOdW1QeSBoYXMgYmVlbiBzZWxlY3RlZCBhcyBhIHBhcnRp
+Y2lwYW50IGZvciB0aGUgR29vZ2xlIFNlYXNvbiBvZiBEb2NzIHByb2dyYW0uIFRoaXMgeWVhciwg
+dGhlIGdyYW50IHdpbGwgc3VwcG9ydCBNYXJzIChATWFyc0JhckxlZSkgYXMgb3VyIHRlY2huaWNh
+bCB3cml0ZXIgb24gdGhlICZxdW90O051bVB5IENvbnRyaWJ1dG9yIEpvdXJuZXkgQ29taWNzJnF1
+b3Q7IHByb2plY3QuIFNoZSBoYXMgYmVlbiBpbnN0cnVtZW50YWwgaW4gaW1wcm92aW5nIHRoZSBO
+dW1QeSBkb2N1bWVudGF0aW9uIGV4cGVyaWVuY2UgdGhyb3VnaCBkZXNpZ24gYW5kIGNvbmNlaXZl
+ZCB0aGUgaWRlYSBmb3IgdGhpcyBwcm9qZWN0IGhlcmUtIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHVi
+LmNvbS9udW1weS9udW1weS5vcmcvcHVsbC82MDAiIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJf
+YmxhbmsiPmh0dHBzOi8vZ2l0aHViLmNvbS9udW1weS9udW1weS5vcmcvcHVsbC82MDA8L2E+LiBT
+aGUgd2lsbCBzaGFyZSBoZXIgZGV0YWlsZWQgaW1wbGVtZW50YXRpb24gcGxhbiB3aXRoIHVzIHNv
+b24uPGJyPgo8YnI+ClRoZSBwcm9qZWN0IHByb3Bvc2FsIGNhbiBiZSByZWFkIGhlcmUtIDxhIGhy
+ZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9udW1weS9udW1weS93aWtpL0dvb2dsZS1TZWFzb24tb2Yt
+RG9jcy0yMDIzOi1Qcm9qZWN0LVByb3Bvc2FsIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2Js
+YW5rIj5odHRwczovL2dpdGh1Yi5jb20vbnVtcHkvbnVtcHkvd2lraS9Hb29nbGUtU2Vhc29uLW9m
+LURvY3MtMjAyMzotUHJvamVjdC1Qcm9wb3NhbDwvYT4uIEFuZCB0aGUgZnVsbCBsaXN0IG9mIHNl
+bGVjdGVkIHBhcnRpY2lwYW50cyBjYW4gYmUgc2VlbiBhdCA8YSBocmVmPSJodHRwczovL2RldmVs
+b3BlcnMuZ29vZ2xlLmNvbS9zZWFzb24tb2YtZG9jcy9kb2NzL3BhcnRpY2lwYW50cyIgcmVsPSJu
+b3JlZmVycmVyIiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20v
+c2Vhc29uLW9mLWRvY3MvZG9jcy9wYXJ0aWNpcGFudHM8L2E+Ljxicj4KPGJyPgpBbHNvLCB3ZSBh
+cmUgYWx3YXlzIGhhcHB5IHRvIHdlbGNvbWUgb3RoZXIgZG9jdW1lbnRhdGlvbiBjb250cmlidXRp
+b25zIG9uIGEgdm9sdW50ZWVyIGJhc2lzLiBQbGVhc2UgY2hlY2sgb3V0IG91ciBjb21tdW5pdHkg
+cGFnZSAoPGEgaHJlZj0iaHR0cHM6Ly9udW1weS5vcmcvY29tbXVuaXR5LyIgcmVsPSJub3JlZmVy
+cmVyIiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly9udW1weS5vcmcvY29tbXVuaXR5LzwvYT4pIGlm
+IHlvdSB3aXNoIHRvIGdldCBpbnZvbHZlZC48YnI+Cjxicj4KQmVzdCB3aXNoZXMsPGJyPgpNdWt1
+bGlrYTxicj4KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX188
+YnI+Ck51bVB5LURpc2N1c3Npb24gbWFpbGluZyBsaXN0IC0tIDxhIGhyZWY9Im1haWx0bzpudW1w
+eS1kaXNjdXNzaW9uQHB5dGhvbi5vcmciIHRhcmdldD0iX2JsYW5rIj5udW1weS1kaXNjdXNzaW9u
+QHB5dGhvbi5vcmc8L2E+PGJyPgpUbyB1bnN1YnNjcmliZSBzZW5kIGFuIGVtYWlsIHRvIDxhIGhy
+ZWY9Im1haWx0bzpudW1weS1kaXNjdXNzaW9uLWxlYXZlQHB5dGhvbi5vcmciIHRhcmdldD0iX2Js
+YW5rIj5udW1weS1kaXNjdXNzaW9uLWxlYXZlQHB5dGhvbi5vcmc8L2E+PGJyPgo8YSBocmVmPSJo
+dHRwczovL21haWwucHl0aG9uLm9yZy9tYWlsbWFuMy9saXN0cy9udW1weS1kaXNjdXNzaW9uLnB5
+dGhvbi5vcmcvIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5odHRwczovL21haWwu
+cHl0aG9uLm9yZy9tYWlsbWFuMy9saXN0cy9udW1weS1kaXNjdXNzaW9uLnB5dGhvbi5vcmcvPC9h
+Pjxicj4KTWVtYmVyIGFkZHJlc3M6IDxhIGhyZWY9Im1haWx0bzppaGVpZmVhbnlpQGdtYWlsLmNv
+bSIgdGFyZ2V0PSJfYmxhbmsiPmloZWlmZWFueWlAZ21haWwuY29tPC9hPjxicj4KPC9ibG9ja3F1
+b3RlPjwvZGl2PjwvZGl2Pgo=
+
+--===============5145059565089908961==--
+
+
+From rgoswami@quansight.com Fri Apr 28 12:31:47 2023
+From: Rohit Goswami <rgoswami@quansight.com>
+To: numpy-discussion@python.org
+Subject:
+ [Numpy-discussion] Re: Google Season of Docs 2023 participation announcement
+Date: Fri, 28 Apr 2023 12:31:34 +0000
+Message-ID: <CD1D6FA6-949B-4B45-B13E-D8072B4A0316@getmailspring.com>
+In-Reply-To:
+ <CAJn9szpemL03GJBa2uFJFUCZVCOXFgwfS7tunKV6_PnOMGFfpg@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2711693245364935042=="
+
+--===============2711693245364935042==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is fantastic news!! Congratulations Mars (and Mukulika and Ross and ever=
+yone else involved with the proposal), definitely well deserved.
+--- Rohit
+
+On Apr 28 2023, at 6:51 am, Benny Ifeanyi Iheagwara <iheifeanyi(a)gmail.com> =
+wrote:
+> That's awesome news Mars (@marsBarLee) You definitely earned it. Keep up th=
+e good work!
+>
+>
+> On Mon, 24 Apr 2023 at 12:43, Mukulika Pahari <mukulikapahari(a)gmail.com (=
+mailto:mukulikapahari(a)gmail.com)> wrote:
+> > Hi all,
+> >
+> > I am pleased to announce that NumPy has been selected as a participant fo=
+r the Google Season of Docs program. This year, the grant will support Mars (=
+@MarsBarLee) as our technical writer on the "NumPy Contributor Journey Comics=
+" project. She has been instrumental in improving the NumPy documentation exp=
+erience through design and conceived the idea for this project here- https://=
+github.com/numpy/numpy.org/pull/600. She will share her detailed implementati=
+on plan with us soon.
+> > The project proposal can be read here- https://github.com/numpy/numpy/wik=
+i/Google-Season-of-Docs-2023:-Project-Proposal. And the full list of selected=
+ participants can be seen at https://developers.google.com/season-of-docs/doc=
+s/participants.
+> > Also, we are always happy to welcome other documentation contributions on=
+ a volunteer basis. Please check out our community page (https://numpy.org/co=
+mmunity/) if you wish to get involved.
+> > Best wishes,
+> > Mukulika
+> > _______________________________________________
+> > NumPy-Discussion mailing list -- numpy-discussion(a)python.org (mailto:nu=
+mpy-discussion(a)python.org)
+> > To unsubscribe send an email to numpy-discussion-leave(a)python.org (mail=
+to:numpy-discussion-leave(a)python.org)
+> > https://mail.python.org/mailman3/lists/numpy-discussion.python.org/
+> > Member address: iheifeanyi(a)gmail.com (mailto:iheifeanyi(a)gmail.com)
+>
+>
+>
+> _______________________________________________
+> NumPy-Discussion mailing list -- numpy-discussion(a)python.org
+> To unsubscribe send an email to numpy-discussion-leave(a)python.org
+> https://mail.python.org/mailman3/lists/numpy-discussion.python.org/
+> Member address: rgoswami(a)quansight.com
+
+
+
+
+--===============2711693245364935042==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0
+
+PGRpdj5UaGlzIGlzIGZhbnRhc3RpYyBuZXdzISEgQ29uZ3JhdHVsYXRpb25zIE1hcnMgKGFuZCBN
+dWt1bGlrYSBhbmQgUm9zcyBhbmQgZXZlcnlvbmUgZWxzZSBpbnZvbHZlZCB3aXRoIHRoZSBwcm9w
+b3NhbCksIGRlZmluaXRlbHkgd2VsbCBkZXNlcnZlZC48L2Rpdj48ZGl2Pi0tLSBSb2hpdDwvZGl2
+Pjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZV9hdHRyaWJ1dGlvbiI+T24gQXByIDI4IDIwMjMs
+IGF0IDY6NTEgYW0sIEJlbm55IElmZWFueWkgSWhlYWd3YXJhICZsdDtpaGVpZmVhbnlpQGdtYWls
+LmNvbSZndDsgd3JvdGU6PC9kaXY+PGJsb2NrcXVvdGU+PGRpdj48ZGl2PlRoYXQncyBhd2Vzb21l
+IG5ld3MgTWFycyAoQG1hcnNCYXJMZWUpIFlvdSBkZWZpbml0ZWx5IGVhcm5lZCBpdC4gS2VlcCB1
+cCB0aGUgZ29vZCB3b3JrITwvZGl2PjwvZGl2PjxkaXY+PGJyPjxpbWcgY2xhc3M9Im1haWxzcHJp
+bmctb3BlbiIgYWx0PSJTZW50IGZyb20gTWFpbHNwcmluZyIgd2lkdGg9IjAiIGhlaWdodD0iMCIg
+c3R5bGU9ImJvcmRlcjowOyB3aWR0aDowOyBoZWlnaHQ6MDsiIHNyYz0iaHR0cHM6Ly9saW5rLmdl
+dG1haWxzcHJpbmcuY29tL29wZW4vQ0QxRDZGQTYtOTQ5Qi00QjQ1LUIxM0UtRDgwNzJCNEEwMzE2
+QGdldG1haWxzcHJpbmcuY29tP21lPTM0ZjdkZTAwJmFtcDtyZWNpcGllbnQ9Ym5WdGNIa3RaR2x6
+WTNWemMybHZia0J3ZVhSb2IyNHViM0puIj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+PGRpdiBj
+bGFzcz0iZ21haWxfYXR0ciI+PGRpdj5PbiBNb24sIDI0IEFwciAyMDIzIGF0IDEyOjQzLCBNdWt1
+bGlrYSBQYWhhcmkgJmx0OzxhIGhyZWY9Im1haWx0bzptdWt1bGlrYXBhaGFyaUBnbWFpbC5jb20i
+IHRpdGxlPSJtYWlsdG86bXVrdWxpa2FwYWhhcmlAZ21haWwuY29tIj5tdWt1bGlrYXBhaGFyaUBn
+bWFpbC5jb208L2E+Jmd0OyB3cm90ZTo8L2Rpdj48L2Rpdj48YmxvY2txdW90ZT48ZGl2PkhpIGFs
+bCw8L2Rpdj48YnI+PGRpdj5JIGFtIHBsZWFzZWQgdG8gYW5ub3VuY2UgdGhhdCBOdW1QeSBoYXMg
+YmVlbiBzZWxlY3RlZCBhcyBhIHBhcnRpY2lwYW50IGZvciB0aGUgR29vZ2xlIFNlYXNvbiBvZiBE
+b2NzIHByb2dyYW0uIFRoaXMgeWVhciwgdGhlIGdyYW50IHdpbGwgc3VwcG9ydCBNYXJzIChATWFy
+c0JhckxlZSkgYXMgb3VyIHRlY2huaWNhbCB3cml0ZXIgb24gdGhlICJOdW1QeSBDb250cmlidXRv
+ciBKb3VybmV5IENvbWljcyIgcHJvamVjdC4gU2hlIGhhcyBiZWVuIGluc3RydW1lbnRhbCBpbiBp
+bXByb3ZpbmcgdGhlIE51bVB5IGRvY3VtZW50YXRpb24gZXhwZXJpZW5jZSB0aHJvdWdoIGRlc2ln
+biBhbmQgY29uY2VpdmVkIHRoZSBpZGVhIGZvciB0aGlzIHByb2plY3QgaGVyZS0gPGEgaHJlZj0i
+aHR0cHM6Ly9naXRodWIuY29tL251bXB5L251bXB5Lm9yZy9wdWxsLzYwMCIgdGl0bGU9Imh0dHBz
+Oi8vZ2l0aHViLmNvbS9udW1weS9udW1weS5vcmcvcHVsbC82MDAiPmh0dHBzOi8vZ2l0aHViLmNv
+bS9udW1weS9udW1weS5vcmcvcHVsbC82MDA8L2E+LiBTaGUgd2lsbCBzaGFyZSBoZXIgZGV0YWls
+ZWQgaW1wbGVtZW50YXRpb24gcGxhbiB3aXRoIHVzIHNvb24uPC9kaXY+PGJyPjxkaXY+VGhlIHBy
+b2plY3QgcHJvcG9zYWwgY2FuIGJlIHJlYWQgaGVyZS0gPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIu
+Y29tL251bXB5L251bXB5L3dpa2kvR29vZ2xlLVNlYXNvbi1vZi1Eb2NzLTIwMjM6LVByb2plY3Qt
+UHJvcG9zYWwiIHRpdGxlPSJodHRwczovL2dpdGh1Yi5jb20vbnVtcHkvbnVtcHkvd2lraS9Hb29n
+bGUtU2Vhc29uLW9mLURvY3MtMjAyMzotUHJvamVjdC1Qcm9wb3NhbCI+aHR0cHM6Ly9naXRodWIu
+Y29tL251bXB5L251bXB5L3dpa2kvR29vZ2xlLVNlYXNvbi1vZi1Eb2NzLTIwMjM6LVByb2plY3Qt
+UHJvcG9zYWw8L2E+LiBBbmQgdGhlIGZ1bGwgbGlzdCBvZiBzZWxlY3RlZCBwYXJ0aWNpcGFudHMg
+Y2FuIGJlIHNlZW4gYXQgPGEgaHJlZj0iaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vc2Vh
+c29uLW9mLWRvY3MvZG9jcy9wYXJ0aWNpcGFudHMiIHRpdGxlPSJodHRwczovL2RldmVsb3BlcnMu
+Z29vZ2xlLmNvbS9zZWFzb24tb2YtZG9jcy9kb2NzL3BhcnRpY2lwYW50cyI+aHR0cHM6Ly9kZXZl
+bG9wZXJzLmdvb2dsZS5jb20vc2Vhc29uLW9mLWRvY3MvZG9jcy9wYXJ0aWNpcGFudHM8L2E+Ljwv
+ZGl2Pjxicj48ZGl2PkFsc28sIHdlIGFyZSBhbHdheXMgaGFwcHkgdG8gd2VsY29tZSBvdGhlciBk
+b2N1bWVudGF0aW9uIGNvbnRyaWJ1dGlvbnMgb24gYSB2b2x1bnRlZXIgYmFzaXMuIFBsZWFzZSBj
+aGVjayBvdXQgb3VyIGNvbW11bml0eSBwYWdlICg8YSBocmVmPSJodHRwczovL251bXB5Lm9yZy9j
+b21tdW5pdHkvIiB0aXRsZT0iaHR0cHM6Ly9udW1weS5vcmcvY29tbXVuaXR5LyI+aHR0cHM6Ly9u
+dW1weS5vcmcvY29tbXVuaXR5LzwvYT4pIGlmIHlvdSB3aXNoIHRvIGdldCBpbnZvbHZlZC48L2Rp
+dj48YnI+PGRpdj5CZXN0IHdpc2hlcyw8L2Rpdj48ZGl2Pk11a3VsaWthPC9kaXY+PGRpdj5fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXzwvZGl2PjxkaXY+TnVt
+UHktRGlzY3Vzc2lvbiBtYWlsaW5nIGxpc3QgLS0gPGEgaHJlZj0ibWFpbHRvOm51bXB5LWRpc2N1
+c3Npb25AcHl0aG9uLm9yZyIgdGl0bGU9Im1haWx0bzpudW1weS1kaXNjdXNzaW9uQHB5dGhvbi5v
+cmciPm51bXB5LWRpc2N1c3Npb25AcHl0aG9uLm9yZzwvYT48L2Rpdj48ZGl2PlRvIHVuc3Vic2Ny
+aWJlIHNlbmQgYW4gZW1haWwgdG8gPGEgaHJlZj0ibWFpbHRvOm51bXB5LWRpc2N1c3Npb24tbGVh
+dmVAcHl0aG9uLm9yZyIgdGl0bGU9Im1haWx0bzpudW1weS1kaXNjdXNzaW9uLWxlYXZlQHB5dGhv
+bi5vcmciPm51bXB5LWRpc2N1c3Npb24tbGVhdmVAcHl0aG9uLm9yZzwvYT48L2Rpdj48ZGl2Pjxh
+IGhyZWY9Imh0dHBzOi8vbWFpbC5weXRob24ub3JnL21haWxtYW4zL2xpc3RzL251bXB5LWRpc2N1
+c3Npb24ucHl0aG9uLm9yZy8iIHRpdGxlPSJodHRwczovL21haWwucHl0aG9uLm9yZy9tYWlsbWFu
+My9saXN0cy9udW1weS1kaXNjdXNzaW9uLnB5dGhvbi5vcmcvIj5odHRwczovL21haWwucHl0aG9u
+Lm9yZy9tYWlsbWFuMy9saXN0cy9udW1weS1kaXNjdXNzaW9uLnB5dGhvbi5vcmcvPC9hPjwvZGl2
+PjxkaXY+TWVtYmVyIGFkZHJlc3M6IDxhIGhyZWY9Im1haWx0bzppaGVpZmVhbnlpQGdtYWlsLmNv
+bSIgdGl0bGU9Im1haWx0bzppaGVpZmVhbnlpQGdtYWlsLmNvbSI+aWhlaWZlYW55aUBnbWFpbC5j
+b208L2E+PC9kaXY+PC9ibG9ja3F1b3RlPjwvZGl2PjwvZGl2PjxkaXY+X19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX188L2Rpdj48ZGl2Pk51bVB5LURpc2N1c3Np
+b24gbWFpbGluZyBsaXN0IC0tIG51bXB5LWRpc2N1c3Npb25AcHl0aG9uLm9yZzwvZGl2PjxkaXY+
+VG8gdW5zdWJzY3JpYmUgc2VuZCBhbiBlbWFpbCB0byBudW1weS1kaXNjdXNzaW9uLWxlYXZlQHB5
+dGhvbi5vcmc8L2Rpdj48ZGl2Pmh0dHBzOi8vbWFpbC5weXRob24ub3JnL21haWxtYW4zL2xpc3Rz
+L251bXB5LWRpc2N1c3Npb24ucHl0aG9uLm9yZy88L2Rpdj48ZGl2Pk1lbWJlciBhZGRyZXNzOiBy
+Z29zd2FtaUBxdWFuc2lnaHQuY29tPC9kaXY+PC9ibG9ja3F1b3RlPg==
+
+--===============2711693245364935042==--
+
+
