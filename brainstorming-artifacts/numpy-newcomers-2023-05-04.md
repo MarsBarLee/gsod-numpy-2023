@@ -1,5 +1,6 @@
 Snippet from the 2023-05-04 NumPy Newcomers’ Hour meeting notes. For the full meeting notes, check https://github.com/numpy/archive/tree/main/newcomers_meetings
 
+---
 **Present** *(add your name and GitHub handle)*: JulesKouatchou (@JulesKouatchou), Mars Lee (@marsbarlee)
 
 ### AGENDA
