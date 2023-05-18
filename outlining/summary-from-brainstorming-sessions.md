@@ -1,6 +1,7 @@
 # Summary from Brainstorming Sessions
 ![Too many Warriors making it difficult to sustain a project](pitch-roles-2023-05-10.png)
 *Slide from Google Jamboard explaining how the fantasy roles correlate to contributor roles*
+- [Link to Google Jamboard](https://jamboard.google.com/d/1j_rEIslOh59N9cLGU1VGc7rTc88SuLTi7l4YqTqAULc/viewer?f=15)
 
 ## Key points
 - From NumPy Newcomers Hour
@@ -47,8 +48,10 @@
 ![Screenshot of Google Jamboard about how open-source generally does not have formally appointed roles](no-formal-roles-2023-05-10.png)
 *Screenshot of Google Jamboard about how open-source generally does not have formally appointed roles* 
 
-## NumPy Newcomers Hour, May 4 2023
-Snippet from the 2023-05-04 NumPy Newcomers’ Hour meeting notes. For the full meeting notes, check https://github.com/numpy/archive/tree/main/newcomers_meetings
+## Full notes from each brainstorming session
+### NumPy Newcomers Hour, May 4 2023
+- Snippet from the 2023-05-04 NumPy Newcomers’ Hour meeting notes. For the full meeting notes, check https://github.com/numpy/archive/tree/main/newcomers_meetings
+- [Link to accompanying Jamboard](https://github.com/MarsBarLee/gsod-numpy-2023/blob/main/brainstorming-artifacts/google-jamboard-2023-05-04.pdf)
 
 Present (add your name and GitHub handle): JulesKouatchou (@JulesKouatchou), Mars Lee (@marsbarlee)
 
@@ -62,8 +65,9 @@ Present (add your name and GitHub handle): JulesKouatchou (@JulesKouatchou), Mar
         - Non-linear paths contributors can take
         - Learning to contribute to NumPy has it's own specifications different from other projects eg NumPy naming conventions
 
-## NumPy Documentation Meeting, May 8 2023
-Snippet from the 2023-05-08 NumPy Documentation meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/docs_team_meetings/docs-2023-05-08.md
+### NumPy Documentation Meeting, May 8 2023
+- Snippet from the 2023-05-08 NumPy Documentation meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/docs_team_meetings/docs-2023-05-08.md
+- [Link to accompanying Jamboard](https://github.com/MarsBarLee/gsod-numpy-2023/blob/main/brainstorming-artifacts/google-jamboard-2023-05-08.pdf)
 
 **Present:** Mukulika, Ross, Jules, Mridul, Mars, Inessa
 
@@ -83,8 +87,9 @@ Snippet from the 2023-05-08 NumPy Documentation meeting notes. For the full meet
         - Is there another metaphor that could work? eg building houses? camping?
         - Dungeons and Dragons (DnD) was given as a metaphor. But DnD is very western-centric, may be unfamiliar to some audiences
 
-## NumPy Community Meeting, May 10 2023
-Snippet from the 2023-05-10 NumPy Newcomers’ Hour meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/community_meetings/community-2023-05-10.md
+### NumPy Community Meeting, May 10 2023
+- Snippet from the 2023-05-10 NumPy Newcomers’ Hour meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/community_meetings/community-2023-05-10.md
+- [Link to accompanying Jamboard](https://github.com/MarsBarLee/gsod-numpy-2023/blob/main/brainstorming-artifacts/google-jamboard-2023-05-10.pdf)
 
 - Gathering community input for GSOD-NumPy 2023 with a 10 minute Brainstorming Session
     - [Link to Google Jamboard](https://jamboard.google.com/d/1j_rEIslOh59N9cLGU1VGc7rTc88SuLTi7l4YqTqAULc/edit?usp=sharing)
