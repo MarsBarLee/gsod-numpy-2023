@@ -1,4 +1,4 @@
-Snippet from the 2023-05-04 NumPy Newcomers’ Hour meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/docs_team_meetings/docs-2023-05-08.md
+Snippet from the 2023-05-08 NumPy Documentation meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/docs_team_meetings/docs-2023-05-08.md
 
 ---
 **Present:** Mukulika, Ross, Jules, Mridul, Mars, Inessa
