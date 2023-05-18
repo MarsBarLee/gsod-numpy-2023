@@ -19,20 +19,20 @@
 ## Contribution pathway aka Story Arc
 
 ### Persona A
-Sits on first community meeting
-Move to first PR, based on experiments on thesis, upsteam, something...
-Future goal: 2nd time contributor
+- Sits on first community meeting
+- Move to first PR, based on experiments on thesis, upsteam, something...
+- Future goal: 2nd time contributor
 
 ### Persona B
-Taking on more roles
-Move from creating PRs to reviewing PRs
-Future goal: Merging one day?
+- Taking on more roles
+- Move from creating PRs to reviewing PRs
+- Future goal: Merging one day?
 
 ### Persona C
-Community meeting minutes
-Triaging, tagging
-Future goal: Refactor documentation
+- Community meeting minutes
+- Triaging, tagging
+- Future goal: Refactor documentation
 
-For get more information on user peronas, contributor pathways and storytelling:
+For more information on user peronas, contributor pathways and storytelling:
 - https://the-turing-way.netlify.app/project-design/persona/persona-contributors.html
 - https://www.masterclass.com/articles/how-to-write-a-captivating-character-arc
