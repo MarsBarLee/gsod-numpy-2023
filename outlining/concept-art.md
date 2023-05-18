@@ -9,9 +9,11 @@
 ## Python open-source landscape as a fantasy map
 - Main two lands: Open Source Land and across the far sea, Licensed Land
 - Users pointing out their hometown, how they got here in NumPy land
+  - "Oh I came from MatLab lands so I haven't used NumPy much"
+  - "I started in Fortan but have been using NumPy for years"
 
 ## Users interacting with each other
-- Users receiving a shared quest eg an issue tagged 'first good issue'
+- Users receiving a shared quest eg an issue tagged 'good first issue'
 - Users starting on an adventure! But wait, where do we go? What's going on?
 - Users reading a map, pointing at different directions
   - "I think we should make a PR!"
