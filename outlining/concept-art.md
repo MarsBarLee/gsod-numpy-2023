@@ -9,6 +9,7 @@
 - The fantasy metaphor should not hide or overcomplicate the contributor workflow
 - Maybe start off with direct metaphor?
 - Or as we explore further in project, we choose to remove fantasy metaphor
+- Or only occasionally use fantasy metaphor
 
 ## Concept Art to Comic Book?
 - Due to time or page constraints, may not be able to make flowing story panel to panel
