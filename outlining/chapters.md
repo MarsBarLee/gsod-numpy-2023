@@ -24,6 +24,7 @@
 * review documetnation
 * Sprint completed
 * First contribution complete, second time contribution, Hurrah!
+* Need to fill out in more detail...
 
 ---
 ## After the sprint
@@ -52,6 +53,7 @@
 * Character admit difficulty to contribute further based on current role, perhaps in future X? (acknowledge reality of other responsibiltiy)
 * Characters talking about why they still contribute
 * Discussion on non-linear paths (deconstruct idea of fixed roles)
+* Acknowledge possible move to formalize but not restrict
 
 ## Ending
 * agree to continue to help each other
