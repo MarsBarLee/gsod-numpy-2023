@@ -1,6 +1,9 @@
 Snippet from the 2023-05-10 NumPy Newcomers’ Hour meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/community_meetings/community-2023-05-10.md
 
 ---
+
+Present: Michael Siebert, Sebastian Berg, Sayed Adel, Riley Rockwell, Mars Lee, Tyler Reddy, Charles Harris, Stéfan van der Walt, Inessa Pawson
+
 ## New Topics
 
 - Gathering community input for GSOD-NumPy 2023 with a 10 minute Brainstorming Session
