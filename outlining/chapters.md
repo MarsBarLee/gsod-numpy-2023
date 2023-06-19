@@ -7,6 +7,8 @@
 * Maintainer lay out fantasy map (introduce metaphor)
 * Some characters a little confused, other enthusiastic
 * Characters pointing at fantasy map, telling where they're from, where they're going
+
+## How a sprint starts/Discovery stage
 * Maintainer lay out sprintable PRs
 * Characters receiving sprintable PR, scrolls
 * Sorting through PRs, reading out loud
