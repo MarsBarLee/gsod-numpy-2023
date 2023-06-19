@@ -1,7 +1,7 @@
 # User Personas and Contributor Pathways
 - Discussed on NumPy Newcomers Hour on May 4 2023 and NumPy Community Meeting on May 10 2023
 
-| Budget item | Contribution pathway aka Story Arc |
+| User Persona | Contribution pathway aka Story Arc |
 |---|---|
 | Persona A. <br/> - In Academia: PhD student uses NumPy extensively in thesis. <br/>  - Field: Meterology? <br/> - Motivation: Move away from licensed products such as MATLAB| <br/>- Sits on first community meeting <br/>- Move to first PR, based on experiments on thesis, upsteam, something...<br/>- Future goal: 2nd time contributo |
 Persona B <br/>- Industry: Familiar with and uses open-soruce projects, moving from Fortran to NumPy<br/>- Field: Physics/Magnets?<br/>- Motivation: Helping others transition to NumPy| - Taking on more roles <br/>- Move from creating PRs to reviewing PRs<br/>- Future goal: Merging one day? |
