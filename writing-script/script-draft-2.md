@@ -141,7 +141,7 @@ Setting: class
         - Sebastian and Ross review: https://github.com/numpy/numpy/pull/23357#pullrequestreview-1336728619
 - Worksheet on your own open source journey?
 
-## Self-review of 1st draft
-- Contains the narrative bones
-- Some characters interactions
-- Lots of cutting forward in somewhat narratively unsatifsying ways- but that's reality isn't it? Wait and see?
+## Self-review of 2nd draft
+- Feels like a lot of pages if follow current story progression that feels most natural right now
+- Glad to add professor character but that 3 main characters figure it out among themselves first
+- Broad strokes, but worried about implemnting specific section (npz.archive, what the PR actually does with the existing codebse). That can be resolved in future reviews...?
