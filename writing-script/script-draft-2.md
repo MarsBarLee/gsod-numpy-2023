@@ -1,12 +1,21 @@
-# Script Draft #1
+# Script Draft #2
 Overall message: NumPy is driven by people who use it: scientists!
 3 stooges energy
 - Most informed (spirit of OS), potential user-contributor "let's do that!"
 - Least informed (let's just get this done), ordinary user, "why would you do that?!"
 - Straight man (no strong preference), eager to please "um, what is that, exactly?"
-Format: Narrative with diagrams throughout
-Target audience: illustrate again what it's like to be a newcomer, importance of guiding figue in entering open source
-want OS people to hand to their friends, loved ones to answer the 'what do you do' question
+Format: Narrative with informational diagrams throughout
+Target audience:
+- Strongest appeal to academia probably: professors, scientists, students
+- will this resonate to a general audience? I think the story will get them started but understandable if there's some fall-off when things get detailed
+- Industry: ? 
+Will not:
+- Explain in too much detail how to set up environment, how Git works, what open source is and how numpy differs from other projects
+Goals:
+- the early contributor journey
+- illustrate to those who've been around for a while what it's like to be a newcomer
+- importance of guiding figure in entering open source
+- want OS people to hand to their friends to answer the 'what do you do' question
 
 ## Opening scene
 Purpose: Establish setting, characters and goal of story
@@ -18,7 +27,7 @@ Setting: Opening shot to library, University of Monty
   -Actions while chatting: Opening laptop, drinking coffee
 - Opening lines
   - Thanks for coming here guys, called meeting after class, want your help in running NumPy, never used it before, looks intimidating, Hope I don't mess up (not confident)
-  - No problem, happy to help (narrative parallel of supporting each other like NumPy community supporting each other), I've played around with in my Python class (Comp Sci class?)
+  - No problem, happy to help (narrative parallel of supporting each other like NumPy community supporting each other), I've played around with in my Python class (Comp Sci class? Is there a more specific class)
 
 ## Rising Action: Discover the problem
 Purpose: Running through scientific process for both reader and newbie to NumPy character
@@ -60,6 +69,7 @@ Setting: Library
 
 ## Taking Action, Making the Issue
 Purpose: Show experience, how do people find out more about open source, using only documentation? No in-person next to them
+Setting: Library
 - Let's start by looking at the NumPy website!
     - Look up NumPy.com, show scrolling experience, keyword extraction, huh! Oh! What?
         - Zoom in making a issue, if you see a byg
@@ -73,7 +83,7 @@ Purpose: Show experience, how do people find out more about open source, using o
     - I guess.. lol no
   
 ## Next Action #1: What is the contribution flow? Making a PR and Role of Maintainer
-Purpose: Show 
+Purpose: Show understanding of open source growing, not just magically completed, introduce another character 
 - a few hours later at canteen? silly student stuff, eating 36 chicken nuggets. moved away from library
   -  oh someone responded!
   -  "This also bothers me! I will Write implementation attempt"
@@ -105,6 +115,9 @@ Purpose: More technical, talking to professor, relationship with maintainer, how
 Setting: After class
   - Hey professor! Um... is this you?
   - Oh yeah! (seeing behind the screen, who are these people?)
+  - I didn't bring it up in class because want to focus on getting started, not brag
+  - Oh, but you should have! Cool!
+  - Uh, to be honest, even if you did I don't I would have understood... But I sort of get it nows
   - what does your comment mean?
     - Show text of comment
     - Dialogue overlaid
