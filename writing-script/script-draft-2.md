@@ -1,25 +1,27 @@
 # Script Draft #2
-Overall message: NumPy is driven by people who use it: scientists!
-3 stooges energy
-- Most informed (spirit of OS), potential user-contributor "let's do that!"
-- Least informed (let's just get this done), ordinary user, "why would you do that?!"
-- Straight man (no strong preference), eager to please "um, what is that, exactly?"
-Format: Narrative with informational diagrams throughout
-Target audience:
-- Strongest appeal to academia probably: professors, scientists, students
-- will this resonate to a general audience? I think the story will get them started but understandable if there's some fall-off when things get detailed
-- Industry: ? 
-Will not:
-- Explain in too much detail how to set up environment, how Git works, what open source is and how numpy differs from other projects
-Goals:
-- the early contributor journey
-- illustrate to those who've been around for a while what it's like to be a newcomer
-- importance of guiding figure in entering open source
-- want OS people to hand to their friends to answer the 'what do you do' question
+- Overall message: NumPy is driven by people who use it: in this case, scientists!
+- 3 stooges energy
+  - Most informed (spirit of OS), potential user-contributor "let's do that!"
+  - Least informed (let's just get this done), ordinary user, "why would you do that?!"
+  - Straight man (no strong preference), eager to please "um, what is that, exactly?"
+- Format:
+  - Narrative with informational diagrams throughout
+- Target audience:
+  - Strongest appeal to academia probably: professors, scientists, students
+  - will this resonate to a general audience? I think the story will get them started but understandable if there's some fall-off when things get detailed
+  - Industry: ? 
+- Will not:
+  - Explain in too much detail how to set up environment, how Git works, what open source is and how numpy differs from other projects
+- Goals:
+  - the early contributor journey
+  - NumPy to open science
+  - illustrate to those who've been around for a while what it's like to be a newcomer
+  - importance of guiding figure in entering open source
+  - want OS people to hand to their friends to answer the 'what do you do' question
 
 ## Opening scene
-Purpose: Establish setting, characters and goal of story
-Setting: Opening shot to library, University of Monty
+- Purpose: Establish setting, characters and goal of story
+- Setting: Opening shot to library, University of Monty
   - Three students settling down to table, carrying books, coffee, etc
 - Students chat about previous class
   - Happy we finished the lab section
@@ -30,8 +32,8 @@ Setting: Opening shot to library, University of Monty
   - No problem, happy to help (narrative parallel of supporting each other like NumPy community supporting each other), I've played around with in my Python class (Comp Sci class? Is there a more specific class)
 
 ## Rising Action: Discover the problem
-Purpose: Running through scientific process for both reader and newbie to NumPy character
-Setting: Library
+- Purpose: Running through scientific process for both reader and newbie to NumPy character
+- Setting: Library
 - Diagram explaining process
   - Well, you remember what we did in the lab right? 
   - single cell microscope data stored as numpy arrays
@@ -52,8 +54,8 @@ Setting: Library
     - We can go forward with this archive contains arrays, access them, get this done quick
   
 ## Rising Action: Confusion, Deciding Next Steps, Disagreement
-Purpose: Showing the difficult transition from finding a problem to taking action
-Setting: Library
+- Purpose: Showing the difficult transition from finding a problem to taking action
+- Setting: Library
   - I think this is worth bringing up...
   - Um, to who? The professor?
   - No, not just the professor. We can actually bring this up as an issue.
@@ -68,8 +70,8 @@ Setting: Library
   - So we're lost then....
 
 ## Taking Action, Making the Issue
-Purpose: Show experience, how do people find out more about open source, using only documentation? No in-person next to them
-Setting: Library
+- Purpose: Show experience, how do people find out more about open source, using only documentation? No in-person next to them
+- Setting: Library
 - Let's start by looking at the NumPy website!
     - Look up NumPy.com, show scrolling experience, keyword extraction, huh! Oh! What?
         - Zoom in making a issue, if you see a byg
@@ -83,7 +85,7 @@ Setting: Library
     - I guess.. lol no
   
 ## Next Action #1: What is the contribution flow? Making a PR and Role of Maintainer
-Purpose: Show understanding of open source growing, not just magically completed, introduce another character 
+- Purpose: Show understanding of open source growing, not just magically completed, introduce another character 
 - a few hours later at canteen? silly student stuff, eating 36 chicken nuggets. moved away from library
   -  oh someone responded!
   -  "This also bothers me! I will Write implementation attempt"
@@ -111,8 +113,8 @@ Purpose: Show understanding of open source growing, not just magically completed
     - Might as well ask
 
 ## Next Action #3: What does it take a PR to be implemented? Backward implementaion
-Purpose: More technical, talking to professor, relationship with maintainer, how this ties to research
-Setting: After class
+- Purpose: More technical, talking to professor, relationship with maintainer, how this ties to research
+- Setting: After class
   - Hey professor! Um... is this you?
   - Oh yeah! (seeing behind the screen, who are these people?)
   - I didn't bring it up in class because want to focus on getting started, not brag
@@ -129,7 +131,7 @@ Setting: After class
   - Merge at end by maintainer (need to mention release cycle?)
 
 ## Closing Action: PR merged
-Purpose: Recognition
+- Purpose: Recognition
   - 1 months later: Students gather again at library, talking about mid terms done
   - Oh, hey, check out this email! 
   - new microscope data, that was our idea, version release, 
@@ -137,9 +139,9 @@ Purpose: Recognition
   - Implementator has Credit in Github history, mailing list release 
   - 
 ## Resolution, teaser for future actions in open source
-Setting: class
+- Setting: class
   - Hey professor, check this out!
--   - Usability, hope it makes better, different ways people contribute
+- Usability, hope it makes better, different ways people contribute
   - Let's go on community meeting next week, saw it on the mailing list
   - I've been thinking about what our professor said...
   - Spirit of open source
@@ -148,10 +150,10 @@ Setting: class
 - Credit specific people and actual PRs
 - Make QR code for the links?
 - Note to new to open source: real story! You could too!
-    - Links
-        - Issue Ross made: https://github.com/numpy/numpy/issues/23319
-        - PR Ganesh implemented: https://github.com/numpy/numpy/pull/23357
-        - Sebastian and Ross review: https://github.com/numpy/numpy/pull/23357#pullrequestreview-1336728619
+  - Links
+    - Issue Ross made: https://github.com/numpy/numpy/issues/23319
+    - PR Ganesh implemented: https://github.com/numpy/numpy/pull/23357
+    - Sebastian and Ross review: https://github.com/numpy/numpy/pull/23357#pullrequestreview-1336728619
 - Worksheet on your own open source journey?
 
 ## Self-review of 2nd draft
