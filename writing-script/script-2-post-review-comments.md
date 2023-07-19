@@ -1,8 +1,8 @@
 # Script 2 Review: After the Review
 Thoughts and next steps
 
-## My consolidation
-- 80% there, working on smaller 20%
+## Summary
+- Got 80% there, working on smaller 20% now
 - Suggestions: 
   - Rewrite parts of story to remove professor character
   - Add more of PR maker

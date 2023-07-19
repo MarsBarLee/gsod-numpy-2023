@@ -1,4 +1,4 @@
-# Script Draft #2
+# Script Review Meeting
 Reviewed with Mukulika and Ross, the NumPy Project Mentors on July 12 2023.
 
 - Overall message: NumPy is driven by people who use it: in this case, scientists!
