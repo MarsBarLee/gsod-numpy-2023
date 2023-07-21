@@ -14,7 +14,7 @@ I've decided to meet where the NumPy community and comic's target audience gathe
 Artefacts in the repo:
 - Concept art
 - Brainstorming documents
--  Scripts
+- Scripts
 - Community meeting notes
 - Annoucements to mailing list
 
@@ -48,9 +48,9 @@ I prepared the Jamboard beforehand. I didn't want to have only one slide with th
 ### Hosting the session
 The beginning opens with the prototype and how it attempts o answer the reoccuring question of 'How do we increase the number and variety of contributions to maintain the long-term health of a project?'. The middle shifts to inspiration such as the Turing Way Community Handbook and The Manga Guide to Databases. All this is twirled up into the pitch of the NumPy Contributor Comics.
 
-The last two slides posed key questions and the rest blank to be filled with comments,
+The last two slides posed key questions and the rest blank to be filled with sticky notes.
 
-By roughly following the agenda and watching the time, each session took a minimum of 20 minutes. I didn't want to call for a seperate meeting for these sessions, but rather slot into existing meetings and adjust from there. So the longest session was a full hour, at the NumPy Newcomers meeting.
+Each session took a minimum of 20 minutes. I didn't want to call for a seperate meeting for these sessions, but rather slot into existing meetings and adjust from there. So the longest session was a full hour, at the NumPy Newcomers meeting.
 
 The biggest turnout was at the NumPy Community meeting with total of 9 people attending, higher than the usual of 4-6 people.
 
@@ -61,16 +61,23 @@ In this way, I conducted infomal user testing. I tested how users responded to t
 
 It was great fun to doodle people's concerns, group ideas together by moving sticky notes, and compare people's experience in entering the NumPy space several years ago vs in the past few weeks.
 
-Alas, the very strengths of the Jamboard was also it's greatst downfall. As the Jamboard was not in a plain text format such as a Markdown document, it was archived as PDF in the repository. I also transcribed the major points back into text. Despite these extra steps, it was worthwhile for me introuce powerful and fun collaboration tool.
+Alas, the very strength of the Jamboard was also it's greatst downfall. As the Jamboard was not in a plain text format such as a Markdown document, it was archived as PDF in the repository. I also transcribed the major points back into text. Despite these extra steps, I felt that it was worthwhile to introduce such a powerful and fun collaboration tool.
 
 ### Outlining
-Take all the feedback, turn into something solid
-Concept Art
-Met with creator, artist, editor, Tony. Take a different perspective in mind
-Alternate betwen community needs and artisitic vision, skills.
+After that social burst, it was time to squirrel away in solitude. I had to digest everything and turn a pitch into something more solid.
+
+I sketched out Concept Art and typed up story arcs. Distinct characters with personalities started to form. These characters would tackle problems, help or antogonize each other, stand firm or come around. Writing dialogue was a matter of letting them speak.
+
+I reached out to a fellow artist, Tony Fast, to give weigh in this process. He was the champion and editor for the Alt Text comics last year, and I wanted to continue our collaboration.
+
+Since my skillset isn't common in the Scientific Python space, it was nice to talk in-depth about how creative work does and doesn't fit clean timelines, comic studies and story-telling.
 
 ### Review #1
-Change direction
+For the review process, I brought the concept art and writing I made during the Outlining stage. I've prepared 
+
+Similar to code review, but 
+specific questions to guide
+elaborate stage of completion, current and future steps
 
 ### Writing Script, Thumbailing
 - Google Doc
