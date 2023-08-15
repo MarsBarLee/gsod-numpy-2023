@@ -1,10 +1,10 @@
-# Blog Post 1
+# First 2 months of GSOD-NumPy project
 
 Hi everyone! This is an update on the first two months of working on the GSOD-NumPy project, the "NumPy Contributor Comics".
 
-For the the project roadmap, check it out here.
+The goal of these comics is to show newcomers  how they can start contributing to NumPy. For more details on the timeline and backstory, check out the [project roadmap](https://medium.com/@marsbarlee/gsod-numpy-contributor-comics-project-roadmap-521280503fbd).
 
-Aim of blog psot: Sharing methodology, aim, unusual, replicate similar projects
+With this blog post, I aim to share not only the methodology of a visual contribution, but also the creative twists and turns. 
 
 ## Setting up my Repo
 I've created a Github repository that contains all the artifacts for this project in the gsod-numpy Github repo. It's my effort to share non-code contribution on Github.
@@ -29,9 +29,9 @@ In the past 4 months, we have finished major stages. The stages are:
 Coming into the project, I already had some prototypes from last year. These were inspired by conversations in the NumPy Community meetings. This provided a strong starting point, since it's easier to with a scribble instead of a blank page. 
 
 I hosted brainstorming sessions in three community meetings in May 2023.
-- Community
-- Docs
-- Newcomers
+- [Community](https://github.com/MarsBarLee/gsod-numpy-2023/blob/main/brainstorming-artifacts/numpy-community-2023-05-10.md)
+- [Docs](https://github.com/MarsBarLee/gsod-numpy-2023/blob/main/brainstorming-artifacts/numpy-docs-2023-05-08.md)
+- [Newcomers](https://github.com/MarsBarLee/gsod-numpy-2023/blob/main/brainstorming-artifacts/numpy-newcomers-2023-05-04.md)
 Each one links to the full meeting notes, if you're interested.
 
 ### Jammin' together!
@@ -72,17 +72,35 @@ I reached out to a fellow artist, Tony Fast, to give weigh in this process. He w
 
 Since my skillset isn't common in the Scientific Python space, it was nice to talk in-depth about how creative work does and doesn't fit clean timelines, comic studies and story-telling.
 
-### Review #1
-For the review process, I brought the concept art and writing I made during the Outlining stage. I've prepared 
+### Community Review #1
+For the review process, I brought the concept art and writing I made during the Outlining stage back to the community calls.
 
-Similar to code review, but 
-specific questions to guide
-elaborate stage of completion, current and future steps
+Since I haven't seen the community review a visual contribution on this scale before, I decided to highlight specific parts I wanted feedback in. However, since we were in the concept art stage, I let people know this is an early and malleable part of the artistic process. This way I could give a starting point and structure for the feedback, while also letting people branch out.
+
+Some specfic parts I asked for feedback on:
+Accuracy
+- Is there an issue that was actually completed during a sprint, that can be used in the comics?
+Character
+- 3 types: over-confident, under-confident and just right
+  - Over-confident: "I bet I already know how to do this!"
+  - Under-confident: "Can I start working on this issue?""
+  - Just right: "Let's review the documentation if this already exists and if I'm still not sure, I'll ask someone."
+
+#### Feedback from community
+One major piece of feedback was to move away from sprints, both as a narrative device and an example the community wanted to higlight.
+
+My concept art focused on newcomers attending a sprint during a conference, since I thought it would be a natural starting to point. I also drew from my own experience hosting sprints and workshops. However, the community wanted to focus more on user-contributors, who are most likely to become repeating contributors.
+
+Ross Barnowski gave a real example of users finding a usability problem, and how that led to a contribution. Specifically how his Niology students found it difficult to explore .npz files, the creation of an issue, and then a PR to change .npz behavior. ([Link to the issue, if anyone's interested.](https://github.com/numpy/numpy/pull/23357))
+
+That led to us coining a key phrase: 'NumPy is driven by people who use it: scientists!'. So I left the call thinking how to incorporate a big story change, balance my own vision and take in the community's input.
 
 ### Writing Script, Thumbailing
-- Google Doc
+Back to the drawing board! I decided to start writing the script in more detail. For this stage, I decided to take to squirrel away again and set up a call with the project mentors, outside of the usual NumPy community calls.
 
-## Difficulty
-## Proud
-Not usual, expanding what doc look like
-however existing knowledge, comfortable in community. as community member receiving grant, familiarity to running start. Curious other visual skill people without this background do similar, share resources, more people.
+I followed-up with Ross and interviewed him to get more details on the story with his Biology students. I saw that the story could shift to be "based on a true story". 
+
+However, this story shift provided a new challenge for me. Since I never conducted scientific research or was in a graduate program, I could not draw from personal experience. Instead, I focused on listening to others people experiences. Mukulika Pahari's persepctive as a recent student also helped me balance Ross' experience as a professor. These prespectives really helped me hone on the key theme of 'open science'.
+
+## Next blog post
+Thanks for reading! In my next blog post, I will cover more how the script and story develops, along with Community Review #2.
