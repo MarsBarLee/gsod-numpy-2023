@@ -1,4 +1,4 @@
-Snippet from the 2023-07-05 NumPy Documentation meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/docs_team_meetings/docs-2023-07-05.md
+Snippet from the 2023-07-03 NumPy Documentation meeting notes. For the full meeting notes, check https://github.com/numpy/archive/blob/main/docs_team_meetings/docs-2023-07-03.md
 
 ---
 
